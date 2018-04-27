@@ -2,7 +2,7 @@
 """
 Created on Sat Mar  3 10:34:36 2018
 
-@author: M1400
+@author: Low Wei Hong
 
 """
 import re
